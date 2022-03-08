@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Julia-s-Weekend/static/css/main.bef1ce39.css",
-    "main.js": "/Julia-s-Weekend/static/js/main.3f6f22f9.js",
+    "main.js": "/Julia-s-Weekend/static/js/main.d8cf9da0.js",
     "static/js/787.165f98e0.chunk.js": "/Julia-s-Weekend/static/js/787.165f98e0.chunk.js",
     "index.html": "/Julia-s-Weekend/index.html",
     "main.bef1ce39.css.map": "/Julia-s-Weekend/static/css/main.bef1ce39.css.map",
-    "main.3f6f22f9.js.map": "/Julia-s-Weekend/static/js/main.3f6f22f9.js.map",
+    "main.d8cf9da0.js.map": "/Julia-s-Weekend/static/js/main.d8cf9da0.js.map",
     "787.165f98e0.chunk.js.map": "/Julia-s-Weekend/static/js/787.165f98e0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bef1ce39.css",
-    "static/js/main.3f6f22f9.js"
+    "static/js/main.d8cf9da0.js"
   ]
 }
